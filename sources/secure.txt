@@ -1,0 +1,6 @@
+# Add one domain per line for high-trust/secure providers or your own domains.
+# Domains listed here will be removed from the deny list and included in the allow list.
+# Examples:
+# gmail.com
+# outlook.com
+# yourcompany.com

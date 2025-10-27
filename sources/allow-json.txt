@@ -1,0 +1,1 @@
+# JSON allow sources (optional). Leave empty or add arrays of strings.

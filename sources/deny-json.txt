@@ -1,0 +1,3 @@
+# JSON deny sources (each should be a JSON array of strings)
+https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/master/domains.json
+https://raw.githubusercontent.com/tompec/disposable-email-domains/refs/heads/main/index.json

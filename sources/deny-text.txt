@@ -1,0 +1,16 @@
+# Text deny sources (one URL per line, '#' comments allowed)
+https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/refs/heads/main/disposable_email_blocklist.conf
+https://disposable.github.io/disposable-email-domains/domains.txt
+https://disposable.github.io/disposable-email-domains/domains_mx.txt
+https://raw.githubusercontent.com/7c/fakefilter/refs/heads/main/txt/data.txt
+https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt
+https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/denyDomains.txt
+https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.txt
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://raw.githubusercontent.com/disposable/disposable-email-domains/master/domains.txt
+https://raw.githubusercontent.com/GeroldSetz/emailondeck.com-domains/master/emailondeck.com_domains_from_bdea.cc.txt
+https://throwaway.cloud/list.txt
+https://raw.githubusercontent.com/jespernissen/disposable-maildomain-list/refs/heads/master/disposable-maildomain-list.txt
+https://raw.githubusercontent.com/micke/valid_email2/refs/heads/main/config/disposable_email_domains.txt
+https://raw.githubusercontent.com/sublime-security/static-files/master/disposable_email_providers.txt
+https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt

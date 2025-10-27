@@ -1,0 +1,5 @@
+# Text allow sources (high-trust/common providers)
+https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/refs/heads/main/allowlist.conf
+https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/allowDomains.txt
+https://raw.githubusercontent.com/disposable/disposable/refs/heads/master/whitelist.txt
+https://raw.githubusercontent.com/sublime-security/static-files/refs/heads/master/high_trust_sender_root_domains.txt
