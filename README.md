@@ -2,6 +2,14 @@
 
 Aggregates disposable-email domain data from multiple upstream sources and publishes clean, deduplicated allow and deny lists. A scheduled GitHub Action keeps the lists current and commits changes automatically.
 
+## Stats
+<!-- STATS:START -->
+- Deny: 0
+- Allow: 0
+- Total: 0
+- Last updated: 2025-10-29 16:55 UTC
+<!-- STATS:END -->
+
 ## What "lists/" Contains
 
 | Path                 | Format | Description                                      |

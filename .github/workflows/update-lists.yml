@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   execute:
-    name: Build allow/deny lists with Go
+    name: Update Allow and Deny Lists
     runs-on: ubuntu-latest
 
     steps:
@@ -30,12 +30,40 @@ jobs:
             --out-text-allow lists/allow.txt \
             --out-json-allow lists/allow.json
 
+      - name: Detect changes in lists
+        id: detect
+        run: |
+          set -euo pipefail
+          git add lists/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Update README stats
+        if: steps.detect.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          deny=$(wc -l < lists/deny.txt)
+          allow=$(wc -l < lists/allow.txt)
+          total=$((deny + allow))
+          ts=$(date -u '+%Y-%m-%d %H:%M UTC')
+          awk -v deny="$deny" -v allow="$allow" -v total="$total" -v ts="$ts" '
+            BEGIN { start="<!-- STATS:START -->"; end="<!-- STATS:END -->" }
+            {
+              if ($0==start) { print start; print "- Deny: "deny; print "- Allow: "allow; print "- Total: "total; print "- Last updated: "ts; in=1; next }
+              if ($0==end)   { print end; in=0; next }
+              if (!in) print
+            }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
+
           echo "### Lists Generated" >> $GITHUB_STEP_SUMMARY
           echo "- Deny entries: $(wc -l < lists/deny.txt)" >> $GITHUB_STEP_SUMMARY
           echo "- Allow entries: $(wc -l < lists/allow.txt)" >> $GITHUB_STEP_SUMMARY
 
       - name: Commit and push changes
-        id: commit
+        if: steps.detect.outputs.changed == 'true'
         env:
           GIT_AUTHOR_NAME: github-actions[bot]
           GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
@@ -43,22 +71,17 @@ jobs:
           GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
           set -euo pipefail
-          git add lists/
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "chore: automatic list update"
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+          git add lists/ README.md
+          git commit -m "chore: automatic list update"
+          git push
 
       - name: Purge jsDelivr CDN
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.detect.outputs.changed == 'true'
         run: |
           set -euo pipefail
-          BASE="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/lists"
-          PURGE_BASE="https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/lists"
+          REF="${GITHUB_REF_NAME:-main}"
+          BASE="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${REF}/lists"
+          PURGE_BASE="https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${REF}/lists"
           for f in deny.txt deny.json allow.txt allow.json; do
             echo "Purging jsDelivr cache for $f"
             # Hit the CDN URL (warming) and then request purge
