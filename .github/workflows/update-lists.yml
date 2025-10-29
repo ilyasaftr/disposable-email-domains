@@ -50,11 +50,11 @@ jobs:
           total=$((deny + allow))
           ts=$(date -u '+%Y-%m-%d %H:%M UTC')
           awk -v deny="$deny" -v allow="$allow" -v total="$total" -v ts="$ts" '
-            BEGIN { start="<!-- STATS:START -->"; end="<!-- STATS:END -->" }
+            BEGIN { start="<!-- STATS:START -->"; endm="<!-- STATS:END -->" }
             {
-              if ($0==start) { print start; print "- Deny: "deny; print "- Allow: "allow; print "- Total: "total; print "- Last updated: "ts; in=1; next }
-              if ($0==end)   { print end; in=0; next }
-              if (!in) print
+              if ($0==start) { print start; print "- Deny: "deny; print "- Allow: "allow; print "- Total: "total; print "- Last updated: "ts; inside=1; next }
+              if ($0==endm)  { print endm; inside=0; next }
+              if (!inside) print
             }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
 
