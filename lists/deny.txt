@@ -63881,6 +63881,7 @@ finance-times.info
 finance.blatnet.com
 finance.findingperry.com
 finance.foodforhat.com
+finance.frequiry.com
 finance.lakemneadows.com
 finance.popautomated.com
 finance.uni.me
@@ -144030,6 +144031,7 @@ runelite.best
 runemax.net
 runemax.org
 runews11.ru
+runfola3.freshbreadcrumbs.com
 runfons.com
 runfoxyrun.com
 rungdaodi.com
@@ -187544,7 +187546,6 @@ ysdev.net
 ysgff.capcutsda.cyou
 ysgjzhjeos6f.best
 ysgldvux.shop
-yshoo.co
 ysir.com
 yskganda.org
 yskx.shop
