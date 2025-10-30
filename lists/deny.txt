@@ -65666,7 +65666,6 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
-for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -109716,7 +109715,6 @@ meximail.pl
 mexu.avlnch.store
 mexvat.com
 mexylocu.website
-mey.com.tr
 meybet52.com
 meybet57.com
 meyernajem.com
