@@ -40351,7 +40351,6 @@ client.makingdomes.com
 client.marksypark.com
 client.marrived.com
 client.openflip.click
-client.pairst.com
 client.ploooop.com
 client.pointbuysys.com
 client.popautomated.com
@@ -186951,6 +186950,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
