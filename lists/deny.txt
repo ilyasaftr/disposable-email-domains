@@ -20557,7 +20557,6 @@ at.laste.ml
 at.ploooop.com
 at.pointbuysys.com
 at.resistingmoney.com
-at.rom11.com
 at0mik.org
 at0s.ml
 ataaalkhayer.net
@@ -41883,6 +41882,7 @@ comfort.openinvestmentapp.com
 comfort.runlightly.click
 comfort.takeaspill.click
 comfort.thetravelperk.click
+comfort.timetraveller.click
 comfort.travelinman.click
 comfort.travelpro.click
 comfort.tryturnon.click
@@ -187568,7 +187568,6 @@ ysdev.net
 ysgff.capcutsda.cyou
 ysgjzhjeos6f.best
 ysgldvux.shop
-yshoo.co
 ysir.com
 yskganda.org
 yskx.shop
