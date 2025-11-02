@@ -35430,6 +35430,7 @@ capcud.shop
 capcut.my.id
 capcut.pp.ua
 capcut.site
+capcut.team
 capcut.tech
 capcutdv.shop
 capcuter.com
@@ -190479,6 +190480,7 @@ zzn.dropmail.me
 zzolboo02.com
 zzoohher.cfd
 zzqaau.rest
+zzrg.org
 zzrgg.com
 zzsbzs.com
 zzuwnakb.pl
