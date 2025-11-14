@@ -23257,6 +23257,7 @@ backtobasicsbluegrass.com
 backtoliferecovery.org
 backtoschoolpbc.com
 backtothefuturefansclub.com
+backtotopbutton.style.display
 backtownmic.cf
 backtownmic.ga
 backtownmic.gq
@@ -48889,6 +48890,7 @@ destkinggen.cf
 destkinggen.gq
 destkinggen.tk
 destroyertactics.com
+destroylink.nextsibling.textcontent
 destructiveblog.com
 destructocat.com
 destweb.com
@@ -54358,6 +54360,7 @@ dyajer-alaod.com
 dyca4d.us
 dycc.10mail.xyz
 dyceroprojects.com
+dyclsr.xyz
 dycredit.club
 dye.emlhub.com
 dyeingmail.online
@@ -79081,6 +79084,7 @@ histormails.ru
 historyalone.com
 historyinheels.com
 historykb.com
+historylink.nextsibling.textcontent
 historyofsoca.com
 historyship.ru
 histrioomail.ru
@@ -110885,7 +110889,6 @@ mini-mail.net
 mini-moda.pw
 mini-quadcopter.ru
 mini-traktor56.ru
-mini.exiix.com
 mini.goinglownow.com
 mini.pixymix.com
 mini.poisedtoshrike.com
@@ -112209,6 +112212,7 @@ modafe.design
 modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
+modal.dataset.showmodal
 modalova.biz
 modalova.online
 modalova.se
@@ -125720,7 +125724,6 @@ oupue.com
 ouqrp.us
 our-products.ru
 our.cowsnbullz.com
-our.factorican.com
 our.oldoutnewin.com
 our.wrengostic.com
 ourang29.icu
@@ -129149,6 +129152,7 @@ permail.site
 permail.store
 permalu.ru
 permanentans.ru
+permanenttooltip.style.left
 permcourier.com
 permeamail.ru
 permispno.cf
@@ -143144,7 +143148,6 @@ roomfact.us
 roomiry.com
 roomka.online
 roommother.biz
-roomrapat.my.id
 roomserve.ir
 roomservicemassage.com
 roomsystem.us
@@ -171197,6 +171200,7 @@ unblockproxy.one
 unbox.edu.pl
 unc.app
 uncause.org
+uncensor.me
 uncensored.rf.gd
 uncensoredsurvival.com
 uncermail.com
@@ -180474,6 +180478,7 @@ window.adsbygoogle
 window.changemailbox
 window.currentlang
 window.datalayer
+window.location.href
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
