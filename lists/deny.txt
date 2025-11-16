@@ -65796,7 +65796,6 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
-for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -189212,6 +189211,7 @@ zero-product-stock.ru
 zero-sale-inform.ru
 zero.360ezzz.com
 zero.cowsnbullz.com
+zero.exiix.com
 zero.hellohappy2.com
 zero.makingdomes.com
 zero.marksypark.com
