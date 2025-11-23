@@ -77973,6 +77973,7 @@ help.favbat.com
 help.getcruise.click
 help.getgambol.click
 help.getjourney.click
+help.lapsuslinguae.click
 help.oversightly.com
 help.religiousfestival.click
 help.staycation.click
@@ -188117,7 +188118,6 @@ ysdev.net
 ysgff.capcutsda.cyou
 ysgjzhjeos6f.best
 ysgldvux.shop
-yshoo.co
 ysir.com
 yskganda.org
 yskx.shop
