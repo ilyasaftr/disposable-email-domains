@@ -17132,6 +17132,7 @@ and.ploooop.com
 and.pointbuysys.com
 and.poisedtoshrike.com
 and.wrengostic.com
+andalanglobal.dev
 andaluchic.net
 andaluxia.monster
 andbest.site
@@ -33410,6 +33411,8 @@ buttliza.info
 buttloads.com
 buttluvr.com
 buttmonkey.com
+button.disabled
+button.innerhtml
 buttonfans.com
 buttonrulesall.com
 buttwebcam.com
@@ -46998,6 +47001,10 @@ data-protect-job.com
 data-protect-law.com
 data-protection-solutions.com
 data.dropmail.me
+data.email
+data.error
+data.message
+data.status
 data1.nu
 dataaas.com
 dataarca.com
@@ -56876,6 +56883,8 @@ elelhal.xyz
 eleman34.com
 elemedialabs.com
 elememail.ru
+element.style.display
+element.textcontent
 elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
@@ -101435,6 +101444,10 @@ login-online-co-uk.buzz
 login-to.online
 login.microsoft-office.live
 loginadulttoys.com
+loginbtn.innerhtml
+loginbutton.disabled
+loginbutton.style.cursor
+loginbutton.style.opacity
 logincbet.asia
 logindominoonline.com
 loginflow.com
@@ -101449,7 +101462,10 @@ loginjoker123.link
 loginlapp.com
 loginoff.su
 loginpage-documentneedtoupload.com
+loginregisterbtn.style.display
+loginregistertext.textcontent
 logins.page
+logintext.textcontent
 logintoemail.online
 loginz.net
 logismi227.ml
@@ -109415,6 +109431,7 @@ memailme.co.uk
 memapp.com
 membed.xyz
 memberblog.com
+membercenterdropdown.style.display
 memberdadu.com
 memberdds.org
 memberheality.ga
@@ -112440,11 +112457,13 @@ modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
 modal.dataset.showmodal
+modalcurrencysymbol.textcontent
 modalova.biz
 modalova.online
 modalova.se
 modalova.shop
 modalova.xyz
+modalpricedisplay.textcontent
 modalsubstance.com
 modanaobuv.ru
 modaoguan.com
@@ -118544,6 +118563,7 @@ neworderofthenorthandsouthmrcinc.com
 neworleansdaiquirifestival.com
 neworleansnewsdaily.com
 neworleansopiaterehab.com
+newpassword.length
 newpathsinmusic.org
 newpayee-registration-secured.com
 newpdfmanuales.xyz
@@ -128789,6 +128809,7 @@ peakinbox.net
 peakkilo.net
 peakkutsutenpojp.com
 peakpharmacy.shop
+peakpoppro.com
 peaksneakerjapan.com
 peaksun.com
 peakvisionhdtv.com
@@ -140555,12 +140576,17 @@ regiopost.trade
 regishub.com
 registand.site
 register-form.online
+registerbtn.innerhtml
+registerbutton.disabled
+registerbutton.style.cursor
+registerbutton.style.opacity
 registered.cf
 registered.com
 registermerpatislot88.live
 registermyninja.com
 registerrequest.com
 registersky777.club
+registertext.textcontent
 registgmbw.space
 registraciya-bank.ru
 registratuimei.org
@@ -141359,6 +141385,7 @@ reservepart.ir
 reservoirsource.com
 reset-secure.com
 reset123.com
+resetemaildisplay.textcontent
 resetsecure.org
 resetsecurity.net
 resfe.com
@@ -141524,6 +141551,7 @@ resturaji.com
 restwin.com
 restyourlife.org
 result-api.shop
+result.data.details
 resultaat.marketing
 resultaatmarketing.com
 resultadodehoje.org
@@ -148652,6 +148680,10 @@ sendapp.uk
 sendbananas.website
 sendbulkmails.com
 sendcertifiedletters.com
+sendcodebtn.disabled
+sendcodebtn.innerhtml
+sendcodebtn.style.cursor
+sendcodebtn.style.opacity
 sendemail2.com
 senderelasem.tk
 sendermail.info
@@ -157567,6 +157599,10 @@ submargmail.com
 submergeus.com
 submic.com
 submissive.com
+submitbtn.disabled
+submitbtn.innerhtml
+submitbtn.style.cursor
+submitbtn.style.opacity
 submitprofit.com
 submoti.ga
 submoti.gq
@@ -160426,6 +160462,7 @@ targeting.space
 targetmapper.com
 targetmutual.com
 targetqq.live
+targetstep.style.display
 targettmail.com
 targoo3.site
 tariffenet.it
@@ -172924,6 +172961,7 @@ userfus.cf
 useriostligg-confirmed.com
 useriostligg-meet-backup.com
 useriostligg-meet.com
+userloginstatus.email
 usermail.pro
 usermania.online
 usermobinfonew.top
@@ -180806,7 +180844,13 @@ window.adsbygoogle
 window.changemailbox
 window.currentlang
 window.datalayer
+window.dispatchevent
+window.issubscribetriggered
 window.location.href
+window.location.origin
+window.location.pathname
+window.memberemail
+window.memberid
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
@@ -189418,6 +189462,7 @@ zellatrix.cfd
 zelooemail.ru
 zelras.ru
 zeltool.xyz
+zelvo.nu
 zema-consulting.us
 zemail.ga
 zemail.ml
