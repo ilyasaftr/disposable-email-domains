@@ -65940,7 +65940,6 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
-for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -69289,6 +69288,7 @@ garrulous.me
 garry-potter.net
 garrymccooey.com
 garrynacov.cf
+garrystore.site
 garsasd.club
 garsvisi.cf
 garsvisi.gq
@@ -124228,6 +124228,7 @@ onesiewereld.online
 onesixdevelopments.com
 onesjoy.com
 onesollution.page
+onesollution.tech
 onespeles.ru
 onestarlight.xyz
 onestepaboveclean.org
@@ -133577,6 +133578,7 @@ pranobun.tk
 pranto.me
 prapto.host
 prasannasafetynets.com
+prasarana.com
 prass.me
 prastganteng.online
 pratik-ik.com
