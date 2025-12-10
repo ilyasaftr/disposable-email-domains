@@ -99936,6 +99936,7 @@ letstalk.slip-up.click
 letstalk.takeatriply.click
 letstalk.thecaper.click
 letstalk.thehike.click
+letstalk.thetravellersrest.click
 letstalk.thetrip.click
 letstalk.traintrips.click
 letstalk.trekapp.click
