@@ -24559,7 +24559,6 @@ base-weight.com
 base.360ezzz.com
 base.blatnet.com
 base.britainst.com
-base.codyting.com
 base.cowsnbullz.com
 base.exiix.com
 base.lakemneadows.com
@@ -68753,6 +68752,7 @@ futurefestival.ru
 futureforkid.org
 futureforward.store
 futuregenesplicing.in
+futuregold68.com
 futuregood.pw
 futurejs.com
 futuremail.info
@@ -155618,6 +155618,7 @@ somacolorado.com
 somaderm.health
 somail.store
 somalipress.com
+somanav.space
 somanca.fun
 somans.site
 somardiz.com
