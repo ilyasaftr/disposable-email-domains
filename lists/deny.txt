@@ -64742,6 +64742,7 @@ finance-times.info
 finance.blatnet.com
 finance.findingperry.com
 finance.foodforhat.com
+finance.frequiry.com
 finance.lakemneadows.com
 finance.popautomated.com
 finance.uni.me
@@ -146233,6 +146234,7 @@ runelite.best
 runemax.net
 runemax.org
 runews11.ru
+runfola3.freshbreadcrumbs.com
 runfons.com
 runfoxyrun.com
 rungdaodi.com
@@ -189715,7 +189717,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.vlavv.net
 yop.xn--vqq79r59m.eu.org
