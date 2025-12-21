@@ -11670,7 +11670,6 @@ abouse.space
 about.com-posted.org
 about.eastworldwest.com
 about.fanficforum.com
-about.geomenon.com
 about.oldoutnewin.com
 about.poisedtoshrike.com
 about.wrengostic.com
@@ -65137,6 +65136,7 @@ first-mail.info
 first-mood.fun
 first-state.net
 first.baburn.com
+first.highnom.com
 first.lakemneadows.com
 first.next4.ir
 firstaidglossary.com
@@ -133006,6 +133006,7 @@ platinum-plus.com
 platinum.blatnet.com
 platinum.cam
 platinum.cowsnbullz.com
+platinum.dobunny.com
 platinum.emailies.com
 platinum.pointbuysys.com
 platinum.poisedtoshrike.com
@@ -184798,6 +184799,7 @@ wwdd22.com
 wwdee.com
 wwee00.com
 wweeerraz.com
+wwefd.top
 wwf.az.pl
 wwfjp.org
 wwfontsele.com
