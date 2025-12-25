@@ -1262,6 +1262,7 @@
 11himchistka.ru
 11img.com
 11jac.com
+11jac.com.
 11lu.org
 11mojoportal.nl
 11mot.ru
@@ -40536,6 +40537,7 @@ class.droidpic.com
 class.emailies.com
 class.hammerhandz.com
 class.hellohappy2.com
+class.resistingmoney.com
 class.wrengostic.com
 class1air.com
 classactioner.com
@@ -141718,7 +141720,6 @@ rechargenavkar.com
 rechnicolor.site
 rechnoclick.com
 rechtsbox.com
-rechtzigel.musclejapancars.com
 rechyt.com
 reciaz.com
 reciclaje.xyz
