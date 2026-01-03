@@ -49645,7 +49645,6 @@ dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
 dev.semar.edu.pl
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -135316,6 +135315,7 @@ pranobun.tk
 pranto.me
 prapto.host
 prasannasafetynets.com
+prasarana.com
 prass.me
 prastganteng.online
 pratik-ik.com
