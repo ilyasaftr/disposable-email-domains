@@ -23299,7 +23299,6 @@ baby-loaf.name
 baby-loaf.us
 baby-mat.com
 baby.blatnet.com
-baby.discopied.com
 baby.frequiry.com
 baby.inblazingluck.com
 baby.lakemneadows.com
@@ -116295,7 +116294,6 @@ muratreis.icu
 murattomruk.com
 muratveyaraglai.tk
 murcasinotoe.ru
-murdaugh73.flatoledtvs.com
 murder.academy
 murdererwellbeing.com
 mure.emlpro.com
@@ -120021,7 +120019,6 @@ new.blatnet.com
 new.cowsnbullz.com
 new.emailies.com
 new.freeml.net
-new.frequiry.com
 new.geomenon.com
 new.hammerhandz.com
 new.hellohappy2.com
@@ -124835,7 +124832,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:e462b42c9fc025922476fa163a1677b0b489da5d837aedd221513ac282091ddf
+oid sha256:5c4680f9ab8139d799445c5cb7545b6d0a7b0c7324599336146e269222a94ef2
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -153812,7 +153809,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 527143
+size 527572
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -166442,7 +166439,6 @@ thinhmin.com.
 think.blatnet.com
 think.factorican.com
 think.foodforhat.com
-think.freog.com
 think.hammerhandz.com
 think.lakemneadows.com
 think.marksypark.com
