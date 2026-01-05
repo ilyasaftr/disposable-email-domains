@@ -64891,7 +64891,6 @@ finance-times.info
 finance.blatnet.com
 finance.findingperry.com
 finance.foodforhat.com
-finance.frequiry.com
 finance.lakemneadows.com
 finance.popautomated.com
 finance.uni.me
@@ -109540,6 +109539,7 @@ mathiasseiler.xyz
 mathidol.in
 mathiepottery.com
 mathieugiroux.com
+mathilda23.plasticvouchercards.com
 mathildelemahieu.pine-and-onyx.xyz
 mathleaf.com
 mathslowsso.cf
@@ -190144,7 +190144,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.vlavv.net
 yop.xn--vqq79r59m.eu.org
