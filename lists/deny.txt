@@ -48161,6 +48161,7 @@ de-register-newdevice.com
 de-register.newdevice-secure.com
 de-visions.com
 de.10mail.org
+de.geomenon.com
 de.introverted.ninja
 de.lakemneadows.com
 de.newhorizons.gq
@@ -156078,7 +156079,6 @@ some.cowsnbullz.com
 some.fanficforum.com
 some.hammerhandz.com
 some.oldoutnewin.com
-some.pairst.com
 some.ploooop.com
 some.us
 someadulttoys.com
@@ -190821,7 +190821,6 @@ ysdev.net
 ysgff.capcutsda.cyou
 ysgjzhjeos6f.best
 ysgldvux.shop
-yshoo.co
 ysir.com
 yskganda.org
 yskx.shop
