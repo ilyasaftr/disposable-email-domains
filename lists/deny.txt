@@ -7884,6 +7884,7 @@
 6mail.cf
 6mail.ga
 6mail.ml
+6mail.ru
 6mail.top
 6mails.com
 6manbetx.info
@@ -120769,6 +120770,7 @@ netviewer-france.com
 netvision.es
 netwest.co.uk
 network-advantage.site
+network-architects.net
 network-loans.co.uk
 network-planet.ru
 network-security-alerts.com
@@ -168728,7 +168730,6 @@ tirtalayana.com
 tirtaqq2.com
 tirthajatra.com
 tirupatitemple.net
-tirv.com
 tirv.net
 tirzahfjellman.com
 tisacli.co.uk
