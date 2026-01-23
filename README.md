@@ -7,7 +7,7 @@ Aggregates disposable-email domain data from multiple upstream sources and publi
 - Deny: 195313
 - Allow: 1101
 - Total: 196414
-- Last updated: 2026-01-22 22:01 UTC
+- Last updated: 2026-01-23 00:04 UTC
 <!-- STATS:END -->
 
 ## What "lists/" Contains
