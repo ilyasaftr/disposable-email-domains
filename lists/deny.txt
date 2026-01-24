@@ -79618,6 +79618,7 @@ help-medical.space
 help-medical.website
 help-prava.ru
 help-presentation.com
+help.carolinensiellive.click
 help.device-secure-new-auth.com
 help.device-secure-new.auth.com
 help.favbat.com
@@ -98775,6 +98776,7 @@ kyriake.com
 kyriog.fr
 kyrsvalut.ru
 kys3pw.us
+kysngd.life
 kystj.us
 kytozu.info
 kytstore.com
