@@ -67262,7 +67262,6 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
-for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -168925,6 +168924,7 @@ tirtalayana.com
 tirtaqq2.com
 tirthajatra.com
 tirupatitemple.net
+tirv.com
 tirv.net
 tirzahfjellman.com
 tisacli.co.uk
