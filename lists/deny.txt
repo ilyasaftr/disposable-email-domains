@@ -150374,7 +150374,6 @@ say.hammerhandz.com
 say.lakemneadows.com
 say.ploooop.com
 say.pointbuysys.com
-say.quirkymeme.com
 say.wrengostic.com
 say0.com
 saya.ga
@@ -166525,6 +166524,7 @@ than.lakemneadows.com
 than.one
 than.poisedtoshrike.com
 than.popautomated.com
+than.shamroad.com
 than.zanycabs.com
 thanawi.com
 thaneh.xyz
