@@ -48780,7 +48780,6 @@ de-register-newdevice.com
 de-register.newdevice-secure.com
 de-visions.com
 de.10mail.org
-de.geomenon.com
 de.introverted.ninja
 de.lakemneadows.com
 de.newhorizons.gq
@@ -113243,7 +113242,6 @@ mexu.avlnch.store
 mexvat.com
 mexylocu.website
 mexze.fun
-mey.com.tr
 meybet52.com
 meybet57.com
 meyernajem.com
