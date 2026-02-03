@@ -76378,6 +76378,7 @@ grugrug.ru
 grumlylesite.com
 grumpy-phpunit.com
 grumpy-testing.com
+grumpy.biz.id
 grumpyglobetroter.com
 grumpyrobot.icu
 grumpyspaint.com
@@ -97384,7 +97385,6 @@ knotsillustrated.com
 knottyyoga.com
 know-mag.com
 know-magazine.com
-know.clarized.com
 know.cowsnbullz.com
 know.marksypark.com
 know.poisedtoshrike.com
@@ -126463,7 +126463,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:671b2b00277f09737bf5aa18aa6ad6a51774f1ccb49338aa5680140537cd2b60
+oid sha256:37c8ea43b75568b847a9b6c1b7dec2311f90d53e11ead5774387662113a17a51
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -137066,6 +137066,7 @@ pranobun.tk
 pranto.me
 prapto.host
 prasannasafetynets.com
+prasarana.com
 prasenor.com
 prass.me
 prastganteng.online
@@ -155765,7 +155766,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 548089
+size 548201
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -191151,6 +191152,7 @@ yahho.com.ar
 yahho.gr
 yahho.jino.ru
 yahhooo.xyz
+yahikod.online
 yahio.co.in
 yahj.com
 yahkunbang.com
