@@ -52897,6 +52897,7 @@ dns-stuff.com
 dns.army
 dns.navy
 dns04.com
+dns1.network
 dns123.org
 dns398.xyz
 dns4urpns.com
@@ -71802,6 +71803,7 @@ genviagrafx.com
 genx-training.com
 genys.best
 genzmaile.com
+genznet.me
 genzotp.com
 genzstyle.my.id
 genztrang.com
@@ -191377,6 +191379,7 @@ yahoo.com.holmatrousa.com
 yahoo.comoo.com
 yahoo.comx.cf
 yahoo.cu.uk
+yahoo.io.vn
 yahoo.is
 yahoo.myvnc.com
 yahoo.netmail.tk
