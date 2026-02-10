@@ -50387,7 +50387,6 @@ dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
 dev.semar.edu.pl
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -128825,6 +128824,7 @@ or.ploooop.com
 or.spymail.one
 or.wrengostic.com
 or.yoshisad.com
+or7mbesna.my.id
 or988.site
 oracruicat.xyz
 oraculaml.com
