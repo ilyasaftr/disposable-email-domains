@@ -80421,7 +80421,6 @@ hentaref.cf
 hentaref.gq
 hentaref.ml
 hentaref.tk
-hentod.tech
 hentodr.shop
 heoo.com
 heovang68.net
@@ -192969,7 +192968,6 @@ yop.profmusique.com
 yop.punkapoule.fr
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.vlavv.net
 yop.work.gd
