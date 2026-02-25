@@ -23722,7 +23722,6 @@ baby-loaf.name
 baby-loaf.us
 baby-mat.com
 baby.blatnet.com
-baby.discopied.com
 baby.frequiry.com
 baby.inblazingluck.com
 baby.lakemneadows.com
@@ -39214,6 +39213,7 @@ chatgpt.linux-do.academy
 chatgptgo.web.id
 chatgptku.pro
 chatgpto.nl
+chatgptt.biz.id
 chatgptuk.pp.ua
 chatgptuy.my.id
 chatich.com
@@ -98012,6 +98012,7 @@ koloidno.com
 kolonkop.space
 kolonyaci.site
 kolonyajel.com
+kolor.biz.id
 kolorowa-moda.pw
 kolory-w-szafie.pw
 kolory-wzory-kroje.pw
@@ -149450,6 +149451,7 @@ ryukyuzxis.space
 ryumail.net
 ryumail.ooo
 ryuuir.my.id
+ryuuir.web.id
 ryuzak.site
 ryvelide.com
 ryvima.cf
@@ -193233,7 +193235,6 @@ yop.profmusique.com
 yop.punkapoule.fr
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.vlavv.net
 yop.work.gd
