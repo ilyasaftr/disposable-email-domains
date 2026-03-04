@@ -72083,7 +72083,6 @@ genys.best
 genzmaile.com
 genznet.me
 genzotp.com
-genzstyle.my.id
 genztrang.com
 geo-crypto.com
 geo.gallery
@@ -184797,6 +184796,7 @@ webmailzx.com
 webmani.top
 webmark.eting.org
 webmarketingtools.net
+webmaster.freephotoretouch.com
 webmaster.md
 webmastercommerce.com
 webmastergrounds.com
@@ -193447,6 +193447,7 @@ yop.profmusique.com
 yop.punkapoule.fr
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.vlavv.net
 yop.work.gd
