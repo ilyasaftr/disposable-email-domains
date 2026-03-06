@@ -49394,7 +49394,6 @@ dedesignessentials.com
 dedetox.center
 dedeurassen.online
 dedi.blatnet.com
-dedi.clarized.com
 dedi.cowsnbullz.com
 dedi.ploooop.com
 dedi.pointbuysys.com
@@ -176475,7 +176474,6 @@ uk.nut.cc
 uk.oldoutnewin.com
 uk.org
 uk.ploooop.com
-uk.relieval.com
 uk.slowdeer.com
 uk.teml.net
 uk.to
@@ -193507,6 +193505,7 @@ yop.profmusique.com
 yop.punkapoule.fr
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.vlavv.net
 yop.work.gd
