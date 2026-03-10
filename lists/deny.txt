@@ -168080,7 +168080,6 @@ tempmailss.com
 tempmailten.com
 tempmailto.com
 tempmailto.org
-tempmailus.com
 tempmailx.xyz
 tempmaily.com
 tempmailyo.org
@@ -168971,7 +168970,6 @@ than.lakemneadows.com
 than.one
 than.poisedtoshrike.com
 than.popautomated.com
-than.shamroad.com
 than.zanycabs.com
 thanawi.com
 thaneh.xyz
@@ -195444,6 +195442,7 @@ yukemon.online
 yuki.ren
 yukiji.org
 yukios.biz.id
+yukios.my.id
 yukios.web.id
 yukiz.biz.id
 yukonrenew.net
