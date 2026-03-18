@@ -46815,7 +46815,6 @@ ctos.ch
 ctou.com
 ctoyule.com
 ctphonezip.com
-ctpiure.com
 ctrehabcenters.com
 ctri.website
 ctrlv.web.id
@@ -65176,6 +65175,7 @@ fbhive.com
 fbhoki.shop
 fbhoreku.my.id
 fbhotro.com
+fbi.ac
 fbi.coms.hk
 fbi.one
 fbiagent.cyou
@@ -195403,7 +195403,6 @@ ysgff.capcutsda.cyou
 ysgjzhjeos6f.best
 ysgldvux.shop
 yshdnhh.click
-yshoo.co
 ysir.com
 yskganda.org
 yskx.shop
