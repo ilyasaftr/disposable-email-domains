@@ -30890,6 +30890,7 @@ bjorwi.autos
 bjorwi.buzz
 bjorwi.cfd
 bjorwi.click
+bjorwi.rest
 bjorwi.site
 bjorwi.space
 bjorwi.store
@@ -41228,6 +41229,7 @@ checknow.online
 checknowmail.com
 checkotpmail.com
 checkout.lakemneadows.com
+checkout.opbeingop.com
 checkout.pointbuysys.com
 checkout.ragnortheblue.com
 checksbibalance.info
@@ -53471,7 +53473,6 @@ diegogamingmail.ml
 diegovts.tk
 diegoyoutuber.tk
 diehlford.com
-diekrager.cottonsleepingbags.com
 diemail.store
 diemailbox.de
 diemban.vn
@@ -76325,6 +76326,7 @@ gingreree.cf
 gingreree.gq
 gingreree.ml
 gingreree.tk
+giniey.my.id
 ginkkvetbor.cf
 ginkkvetbor.ga
 ginkkvetbor.gq
@@ -84910,6 +84912,7 @@ hit-best-buy.ru
 hit-magazine-buy.ru
 hit.carmanial.com
 hit.cowsnbullz.com
+hit.dobunny.com
 hit.hammerhandz.com
 hit.oldoutnewin.com
 hit.ploooop.com
@@ -95696,6 +95699,7 @@ jeffpeterson.info
 jeffreycloninger182.xyz
 jeffreyhunt.org
 jeffreypeterson.info
+jeffrivod.my.id
 jefri.tech
 jefricrak12.ml
 jeg5ym.us
@@ -115574,7 +115578,6 @@ marketing.friskapp.click
 marketing.getturnon.click
 marketing.healthcareprivacy.click
 marketing.hikelabs.click
-marketing.jotex.se
 marketing.openflip.click
 marketing.takeatripshub.click
 marketing.travelhub.click
@@ -119655,7 +119658,6 @@ mini-mail.net
 mini-moda.pw
 mini-quadcopter.ru
 mini-traktor56.ru
-mini.exiix.com
 mini.goinglownow.com
 mini.pixymix.com
 mini.poisedtoshrike.com
@@ -134823,6 +134825,7 @@ org.factorican.com
 org.fanficforum.com
 org.marksypark.com
 org.oldoutnewin.com
+org.rom11.com
 org.ua
 organic-best.ru
 organic.in
@@ -156863,7 +156866,6 @@ salazza.com
 salbol.com
 salcantaywalks.com
 sald.de
-saldano.plasticvouchercards.com
 saldiora.com
 saldov.club
 saldov.xyz
@@ -175631,7 +175633,6 @@ thelurelounge.com
 thelutchmanreport.com
 theluxplanet.com
 theluxurycloset.info
-them.islaby.com
 them.lakemneadows.com
 them.poisedtoshrike.com
 them.zanycabs.com
@@ -192748,7 +192749,6 @@ weiboscript.website
 weibsvolk.de
 weibsvolk.org
 weichel.nicewoodenbaskets.com
-weidner63.silkwomenshirts.com
 weieaidz.xyz
 weifamily.mom
 weigh.bthow.com
