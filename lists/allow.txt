@@ -40,6 +40,7 @@ airpost.net
 airtable.com
 aleeas.com
 alertmedia.com
+aliceadsl.fr
 aliencamel.com
 allergist.com
 allmail.net
@@ -58,6 +59,7 @@ ana.co.jp
 angelic.com
 angi.com
 anthem.com
+aol.co.uk
 aol.com
 apache.org
 appfolio.com
@@ -84,6 +86,7 @@ atlassian.com
 atlassian.net
 atriushealth.org
 att-mail.com
+att.net
 auctioneer.net
 australiamail.com
 auth0.com
@@ -103,6 +106,7 @@ barracuda.com
 bartender.net
 basecamp.com
 bbc.com
+bbox.fr
 bbva.be
 bbva.ch
 bbva.com
@@ -117,6 +121,7 @@ bedbathandbeyond.com
 behance.com
 bell.ca
 bellair.net
+bellsouth.net
 benilde.edu.ph
 berlin.com
 bestbuy.com
@@ -134,6 +139,7 @@ blazeo.com
 bloomberg.com
 bloomberg.net
 blu.it
+blueyonder.co.uk
 bmo.com
 bmofg.com
 boardermail.com
@@ -169,6 +175,7 @@ cbamboo.com
 cbinsights.com
 cdc.gov
 centraldecomunicacion.es
+charter.net
 chase.com
 checkpoint.com
 checkr.com
@@ -215,6 +222,7 @@ costco.com
 counsellor.com
 coupahost.com
 coursera.org
+cox.net
 crayon.com
 creditkarma.com
 crowdstrike.com
@@ -419,6 +427,7 @@ gmail.com
 gmx.at
 gmx.com
 gmx.de
+gmx.fr
 gmx.net
 gmx.us
 godaddy.com
@@ -541,6 +550,7 @@ koreamail.com
 kp.com
 kpmg.com
 labcorp.com
+laposte.net
 lastpass.com
 legislator.com
 lendscape.com
@@ -555,6 +565,9 @@ linkedin.com
 linuxmail.org
 lionelastomers.com
 list.ru
+live.co.uk
+live.com
+live.fr
 lobbyist.com
 lookermail.com
 lovecat.com
@@ -602,6 +615,7 @@ mastercard.com
 matiries.com
 mcafee.com
 mda.mil
+me.com
 medallia.com
 medium.com
 meetup.com
@@ -655,6 +669,7 @@ netlify.com
 netscape.com
 netscape.net
 netsuite.com
+neuf.fr
 newrelic.com
 nextdoor.com
 nfl.com
@@ -666,7 +681,9 @@ norton.com
 nortonlifelock.com
 nospammail.net
 notion.so
+ntlworld.com
 null.net
+numericable.fr
 nus.edu.sg
 nvoicepay.com
 ny.gov
@@ -687,9 +704,11 @@ optician.com
 optummessenger.com
 oracle.com
 oracleindustry.com
+orange.fr
 orthodontist.net
 otter.ai
 outlook.com
+outlook.fr
 ownmail.net
 ozk.com
 pacific-ocean.com
@@ -799,6 +818,7 @@ riskiq.net
 robinhood.com
 roblox.com
 rocketlane.com
+rocketmail.com
 rocketship.com
 rubrik.com
 ruffrey.com
@@ -819,6 +839,7 @@ sanfranmail.com
 sans.org
 sap.com
 sastrify.com
+sbcglobal.net
 schneier.com
 schoolmessengermail.com
 schwab.com
@@ -836,6 +857,7 @@ service-now.com
 service-webroot.com
 servicenow.com
 sfax.com
+sfr.fr
 sharp.com
 shitware.nl
 shop.app
@@ -857,6 +879,7 @@ sina.com
 sisfirst.com
 skiff.com
 sktelecom.com
+sky.com
 slack-mail.com
 slack.com
 slmail.me
@@ -905,6 +928,7 @@ swissmail.com
 synchronybank.com
 synchronyfinancial.com
 t-mobile.com
+talktalk.net
 target.com
 taxacte-file.com
 td.com
@@ -979,6 +1003,7 @@ vanta.com
 venmo.com
 veribox.net
 verizon.com
+verizon.net
 verizonenterprise.com
 verizonwireless.com
 veryfast.biz
@@ -986,6 +1011,7 @@ veryspeedy.net
 vfemail.net
 virginatlantic.com
 virginaustralia.com
+virginmedia.com
 virtru.com
 visa.com
 vivint.com
@@ -993,6 +1019,7 @@ vmware.com
 vndly.com
 volvocars.com
 walmart.com
+wanadoo.fr
 war.gov
 warpmail.net
 washingtonpost.com
@@ -1060,6 +1087,7 @@ yandex.ru
 yeah.net
 yelp.com
 yepmail.net
+ymail.com
 your-mail.com
 youtube.com
 zendesk.com
