@@ -4,10 +4,10 @@ Aggregates disposable-email domain data from multiple upstream sources and publi
 
 ## Stats
 <!-- STATS:START -->
-- Deny: 212806
+- Deny: 212795
 - Allow: 1097
-- Total: 213903
-- Last updated: 2026-07-14 23:16 UTC
+- Total: 213892
+- Last updated: 2026-07-15 00:15 UTC
 <!-- STATS:END -->
 
 ## What "lists/" Contains
