@@ -21834,7 +21834,6 @@ artleoncommunications.com
 artlessons.video
 artlocate.com
 artlok.space
-artlover.com.au
 artlover.shop
 artmail.icu
 artmail.store
@@ -29953,7 +29952,6 @@ betfest8.com
 betfire24.com
 betflix.ru
 betflixcasino.co
-betfoot.ru
 betforbet1.com
 betforward.design
 betforward.poker
@@ -33531,7 +33529,6 @@ bnz.dropmail.me
 bnzlu.anonbox.net
 bo-shopify.com
 bo.freeml.net
-bo.ru
 bo5e.icu
 bo7gd.anonbox.net
 bo7uolokjt7fm4rq.cf
@@ -36636,6 +36633,7 @@ bulatox.com
 bulb.emlhub.com
 bulbasures.com
 bulbtiger.com
+bulc.club
 buldozer-rent92.ru
 bulegoblog.com
 bulemasukkarung.bar
@@ -70196,6 +70194,7 @@ fb.hex2.ml
 fb.isorada.com
 fb.laste.ml
 fb.opheliia.com
+fb1.bex.ro
 fb2a.site
 fb2aa.site
 fb2ab.site
@@ -118436,6 +118435,7 @@ mail2ask.com
 mail2astronomer.com
 mail2athena.com
 mail2athlete.com
+mail2atlas.com
 mail2atom.com
 mail2attitude.com
 mail2auction.com
@@ -119530,6 +119530,7 @@ mail2trex.com
 mail2triallawyer.com
 mail2trick.com
 mail2trillionaire.com
+mail2troy.com
 mail2truck.com
 mail2trump.com
 mail2try.com
@@ -131708,7 +131709,6 @@ myboatsibiza.com
 mybook.vegas
 mybookguide.site
 mybovip.com
-mybox.it
 mybpay.shop
 mybrainsme.fun
 mybreathegreenpure.com
@@ -140306,7 +140306,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:c936ceb213e36b89a6559d67cc064a09bb7a91e87ff6cc5161741eca9e9be094
+oid sha256:d795737462f5a7e2abceaf4ce91296cb79af33e846c6580dd43223c32ad5e972
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -172287,7 +172287,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 678959
+size 678879
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -182814,7 +182814,6 @@ technt.org
 techoth.com
 techpaisa.com
 techplanet.com
-techpointer.com
 techpress.info
 techproductinfo.com
 techreactor.net
@@ -206740,6 +206739,7 @@ wulw.com
 wum5sr-mail.xyz
 wumail.com
 wumbo.co
+wumupyz.com
 wumzhi.com
 wunderapps.com
 wunderkraut.ru
